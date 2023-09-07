@@ -1,6 +1,7 @@
 <h1>Welcome! My name is Shaunessey and I have an interest in Cybersecurity.</h1>
 
 <h2>Here are my current projects:</h2>
+<h3>(More content and documentation is coming soon, most likely utilizing Obsidian. Thank you for your patience.)</h3>
 
 - <b>Active Directory Environment</b>
   - [JoshMadakor YouTube video](https://www.youtube.com/watch?v=MHsI8hJmggI&t=2s&ab_channel=JoshMadakor)
@@ -15,8 +16,8 @@
   - [JonGood Youtube Tutorial](https://www.youtube.com/watch?v=x87gbgQD4eg&ab_channel=JonGood)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>Rust</b>
-  - Nothing yet!
+- <b>Kali Linux</b>
+  - Here's where I'll document my progress through 'The Ultimate Kali Linux Book, Second Edition', by Glen D. Singh
 - <b>Network and Firewall Configuration</b>
   - [Comodo Firewall](https://www.youtube.com/watch?v=JPESRmqFXjg&ab_channel=ThePCSecurityChannel)
 
